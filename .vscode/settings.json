@@ -1,4 +1,4 @@
 
 {
-    "files.eol": "\n"
+    "deno.enable": true,
 }
